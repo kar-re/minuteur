@@ -1,0 +1,11 @@
+// // @import 'carbon-components/scss/globals/scss/styles.scss';
+
+
+// @include carbon--theme($carbon--theme--g100);
+
+// // Optionally include the grid
+@import 'carbon-components/scss/globals/grid/_grid.scss';
+
+// // Optionally include components that you need
+@import 'carbon-components/scss/components/button/button';
+// // @import 'carbon-components/scss/components/file-uploader/file-uploader';
